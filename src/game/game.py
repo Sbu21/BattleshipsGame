@@ -1,5 +1,3 @@
-import random
-
 from src.board.texttable_board import TextTable_board
 from src.player.player import Player
 from src.board.board import Board
